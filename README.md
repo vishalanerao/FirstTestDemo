@@ -1,2 +1,2 @@
 # FirstTestDemo
-This first demo 
+This is first demo of repository
